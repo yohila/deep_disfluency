@@ -1,0 +1,367 @@
+invalid repair2900 48 17 48 29 48 25 48 29  p1
+invalid repair4829 112 1 112 25 112 17 112 25  p1
+invalid repair2197 74 1 74 13 74 6 74 13  p1
+invalid repair2431 99 17 99 25 99 21 99 25  p1
+invalid repair4840 38 26 38 46 38 39 38 52  p1
+invalid repair3071 19 6 19 17 19 13 19 17 Reparandum.Reparandum. p1
+invalid repair2482 276 12 276 20 276 16 276 26  p1
+invalid repair2926 49 7 49 31 49 23 49 31  p1
+invalid repair2232 180 40 180 47 180 44 180 53  p1
+invalid repair4666 132 4 132 17 132 11 132 17  p1
+invalid repair4721 37 7 37 14 37 10 37 18  p1
+invalid repair2788 181 11 181 18 181 14 181 23  p1
+invalid repair3745 61 14 61 31 61 24 61 46  p1
+invalid repair2418 195 6 195 14 195 9 195 14  p1
+invalid repair3692 27 1 27 17 27 4 27 17  p1
+invalid repair4735 21 5 21 20 21 12 21 20  p1
+invalid repair4745 10 4 10 18 10 14 10 18  p1
+invalid repair2155 130 1 130 15 130 8 130 15  p1
+invalid repair2227 112 4 112 20 112 14 112 20  p1
+invalid repair2693 87 5 87 16 87 10 87 16  p1
+invalid repair3463 127 7 127 14 127 10 127 14  p1
+invalid repair2924 67 1 67 20 67 16 67 20  p1
+invalid repair2924 265 1 265 14 265 6 265 14  p1
+invalid repair2924 319 7 319 34 319 28 319 34  p1
+invalid repair2293 45 1 45 7 45 4 45 11  p1
+invalid repair2621 178 5 178 14 178 10 178 24  p1
+invalid repair2834 33 11 33 21 33 14 33 25  p1
+invalid repair2820 35 4 35 26 35 15 35 26  p1
+invalid repair2874 19 3 19 12 19 6 19 12  p1
+invalid repair2874 43 36 43 42 43 39 43 42 Repair. p1
+invalid repair2874 43 33 43 43 43 36 43 43  p1
+invalid repair2303 196 1 198 9 198 1 198 9  p3
+invalid repair3518 87 1 89 8 89 1 89 8  p3
+invalid repair3162 12 13 14 10 14 6 14 15  p3
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw00utt/sw_0006_4108.utt', 7, 'B', 'sd', '4108', 7]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw00utt/sw_0006_4108.utt', 7, 'B', 'sd', '4108', 7]
+ANNOTATION WARNING: No interregnum                             marked for delete(s). Shifting delete annotations                             over an interregnum. 
+	['sw00utt/sw_0006_4108.utt', 62, 'B', 'sd', '4108', 43]
+ANNOTATION ERROR: Interregnum but no edit term.                     Shifting/removing interrengna. 
+	['sw00utt/sw_0006_4108.utt', 93, 'A', 'sd', '4108', 62]
+	['', '', '', '', '<rms id="786"/>', '<i id="786"/><e/>', '<rps id="786"/>', '<rp id="786"/>', '<rp id="786"/>', '<rp id="786"/>', '<rp id="786"/>', '<rpnsub id="786"/>', '', '<e/>', '<e/>', '<rms id="787"/>', '<rps id="787"/><rpnrep id="787"/>', '', '', '', '', '', '', '', '', '', '', '', '']
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw00utt/sw_0017_4036.utt', 16, 'A', 'qw', '4036', 15]
+ANNOTATION ERROR: Interregnum but no edit term.                     Shifting/removing interrengna. 
+	['sw00utt/sw_0017_4036.utt', 18, 'B', 'sd', '4036', 16]
+	['<e/>', '', '', '<rms id="965"/>', '<rm id="965"/>', '<i id="965"/><e/>', '<rps id="965"/>', '<rp id="965"/>', '<rp id="965"/>', '<rp id="965"/>', '<rp id="965"/>', '<rp id="965"/>', '<rpnsub id="965"/>', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw00utt/sw_0017_4036.utt', 86, 'A', 'sv', '4036', 53]
+ANNOTATION ERROR: Edit term or                         interregnum overwriting key repair element.                         Removing repair. 
+	['sw00utt/sw_0018_4082.utt', 18, 'B', 'sd', '4082', 8, 'sw00utt/sw_0018_4082.utt', 21, 'B', '+', '4082', 10]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw00utt/sw_0018_4082.utt', 53, 'B', 'sv', '4082', 20]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw00utt/sw_0018_4082.utt', 55, 'A', 'qy', '4082', 21]
+ANNOTATION WARNING:                             Shifting repair end back left of                             an edit term. 
+	['sw00utt/sw_0018_4082.utt', 55, 'A', 'qy', '4082', 21]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw00utt/sw_0018_4082.utt', 59, 'B', 'sv', '4082', 22, 'sw00utt/sw_0018_4082.utt', 63, 'B', '+', '4082', 24]
+ANNOTATION ERROR: Edit term or                         interregnum overwriting key repair element.                         Removing repair. 
+	['sw00utt/sw_0020_4109.utt', 21, 'B', 'sv', '4109', 14]
+ANNOTATION ERROR: Edit term or                         interregnum overwriting key repair element.                         Removing repair. 
+	['sw00utt/sw_0020_4109.utt', 21, 'B', 'sv', '4109', 14]
+ANNOTATION ERROR: Edit term or                         interregnum overwriting key repair element.                         Removing repair. 
+	['sw00utt/sw_0020_4109.utt', 24, 'A', 'sd', '4109', 15]
+ANNOTATION ERROR: Edit term or                         interregnum overwriting key repair element.                         Removing repair. 
+	['sw00utt/sw_0020_4109.utt', 24, 'A', 'sd', '4109', 15]
+ANNOTATION WARNING: Shifting reparandum                             onset right of an edit term. 
+	['sw00utt/sw_0020_4109.utt', 60, 'A', 'sd', '4109', 29]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw00utt/sw_0020_4109.utt', 68, 'A', 'sd', '4109', 33]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw00utt/sw_0020_4109.utt', 68, 'A', 'sd', '4109', 33]
+ANNOTATION ERROR: Edit term or                         interregnum overwriting key repair element.                         Removing repair. 
+	['sw00utt/sw_0020_4109.utt', 88, 'B', 'sd', '4109', 44]
+ANNOTATION ERROR: Edit term or                         interregnum overwriting key repair element.                         Removing repair. 
+	['sw00utt/sw_0020_4109.utt', 88, 'B', 'sd', '4109', 44]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw00utt/sw_0028_4133.utt', 1, 'A', 'sv', '4133', 1]
+ANNOTATION WARNING:                             Shifting repair end back left of                             an edit term. 
+	['sw00utt/sw_0028_4133.utt', 1, 'A', 'sv', '4133', 1]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw00utt/sw_0028_4133.utt', 1, 'A', 'sv', '4133', 1]
+ANNOTATION WARNING: No interregnum                             marked for delete(s). Shifting delete annotations                             over an interregnum. 
+	['sw00utt/sw_0028_4133.utt', 30, 'A', 'sv', '4133', 15]
+ANNOTATION ERROR: Interregnum but no edit term.                     Shifting/removing interrengna. 
+	['sw00utt/sw_0028_4133.utt', 48, 'A', 'sv', '4133', 21]
+	['<rms id="1190"/>', '<rps id="1190"/>', '<rp id="1190"/>', '<rp id="1190"/>', '<e/>', '<e/>', '<rpnsub id="1190"/>', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '<rms id="1191"/>', '<rps id="1191"/><rpnsub id="1191"/>', '', '<rms id="1192"/>', '<rps id="1192"/><rpnrep id="1192"/>', '', '', '', '', '', '', '', '']
+ANNOTATION ERROR: Edit term or                         interregnum overwriting key repair element.                         Removing repair. 
+	['sw00utt/sw_0028_4133.utt', 55, 'A', 'sd', '4133', 23]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw00utt/sw_0028_4133.utt', 63, 'B', 'sv', '4133', 26, 'sw00utt/sw_0028_4133.utt', 65, 'B', '+', '4133', 28]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw00utt/sw_0028_4133.utt', 87, 'A', 'sv', '4133', 41]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw00utt/sw_0028_4133.utt', 91, 'A', 'sv', '4133', 41, 'sw00utt/sw_0028_4133.utt', 93, 'A', '+', '4133', 43]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw00utt/sw_0028_4133.utt', 91, 'A', 'sv', '4133', 41, 'sw00utt/sw_0028_4133.utt', 93, 'A', '+', '4133', 43]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw00utt/sw_0028_4133.utt', 114, 'B', 'sd', '4133', 54, 'sw00utt/sw_0028_4133.utt', 116, 'B', '+', '4133', 56, 'sw00utt/sw_0028_4133.utt', 118, 'B', '+', '4133', 58]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw00utt/sw_0028_4133.utt', 114, 'B', 'sd', '4133', 54, 'sw00utt/sw_0028_4133.utt', 116, 'B', '+', '4133', 56, 'sw00utt/sw_0028_4133.utt', 118, 'B', '+', '4133', 58]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw00utt/sw_0029_4152.utt', 16, 'A', 'sd', '4152', 7]
+ANNOTATION ERROR: Interregnum but no edit term.                     Shifting/removing interrengna. 
+	['sw00utt/sw_0029_4152.utt', 39, 'B', 'sv', '4152', 20]
+	['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '<rms id="1245"/>', '<rps id="1245"/><rpnrep id="1245"/>', '<rms id="7"/>', '<rps id="7"/><rms id="1246"/>', '<rp id="7"/><rps id="1246"/><rpnrep id="1246"/>', '<e/>', '<e/>', '<e/>', '<rp id="7"/>', '<rp id="7"/>', '<rpnsub id="7"/>', '', '', '', '', '', '', '', '', '', '', '', '', '']
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw00utt/sw_0029_4152.utt', 86, 'A', 'sd', '4152', 47]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw00utt/sw_0029_4152.utt', 86, 'A', 'sd', '4152', 47]
+ANNOTATION ERROR: Interregnum but no edit term.                     Shifting/removing interrengna. 
+	['sw00utt/sw_0041_4048.utt', 98, 'B', 'sv', '4048', 51]
+	['<e/>', '', '<rms id="1387"/>', '<rm id="1387"/>', '<i id="1387"/><e/>', '<i id="1387"/><e/>', '<rps id="1387"/>', '<rpnsub id="1387"/>', '', '', '<e/>', '', '<rms id="1388"/>', '<i id="1388"/><e/>', '<i id="1388"/><e/>', '<rps id="1388"/>', '<rpnsub id="1388"/>', '', '']
+ANNOTATION WARNING: No interregnum                             marked for delete(s). Shifting delete annotations                             over an interregnum. 
+	['sw00utt/sw_0042_4060.utt', 91, 'A', 'sv', '4060', 53]
+ANNOTATION WARNING: No interregnum                             marked for delete(s). Shifting delete annotations                             over an interregnum. 
+	['sw00utt/sw_0042_4060.utt', 93, 'A', 'sv', '4060', 55]
+ANNOTATION ERROR: Interregnum but no edit term.                     Shifting/removing interrengna. 
+	['sw00utt/sw_0043_4148.utt', 7, 'A', 'no', '4148', 4]
+	['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '<rms id="1423"/>', '<i id="1423"/><e/>', '<rps id="1423"/>', '<rp id="1423"/>', '<rp id="1423"/>', '<rp id="1423"/>', '<rp id="1423"/>', '<rp id="1423"/>', '<rp id="1423"/>', '<rp id="1423"/>', '<rp id="1423"/>', '<rp id="1423"/>', '<rp id="1423"/>', '<rp id="1423"/>', '<rpnsub id="1423"/>', '', '', '', '', '', '', '', '', '', '<e/>', '', '', '', '']
+ANNOTATION ERROR: Interregnum but no edit term.                     Shifting/removing interrengna. 
+	['sw00utt/sw_0043_4148.utt', 14, 'B', 'sv', '4148', 7]
+	['<rms id="1424"/>', '<rm id="1424"/>', '<i id="1424"/><e/>', '<rps id="1424"/>', '<rpnrep id="1424"/>', '', '', '', '', '<e/>', '<rms id="1425"/>', '<rps id="1425"/>', '<rp id="1425"/>', '<rp id="1425"/>', '<rp id="1425"/>', '<rp id="1425"/>', '<rp id="1425"/>', '<rpnsub id="1425"/>', '', '', '', '', '', '<rms id="1426"/>', '<rps id="1426"/>', '<rp id="1426"/>', '<rp id="1426"/>', '<rp id="1426"/>', '<rpnsub id="1426"/>', '', '', '', '', '']
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw00utt/sw_0060_4038.utt', 19, 'B', 'sd', '4038', 10, 'sw00utt/sw_0060_4038.utt', 21, 'B', '+', '4038', 12]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw00utt/sw_0060_4038.utt', 19, 'B', 'sd', '4038', 10, 'sw00utt/sw_0060_4038.utt', 21, 'B', '+', '4038', 12]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw00utt/sw_0060_4038.utt', 90, 'B', 'sd', '4038', 46]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw00utt/sw_0060_4038.utt', 92, 'B', 'sd', '4038', 48]
+ANNOTATION WARNING: No interregnum                             marked for delete(s). Shifting delete annotations                             over an interregnum. 
+	['sw00utt/sw_0060_4038.utt', 106, 'A', 'sd', '4038', 55]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw00utt/sw_0061_4151.utt', 4, 'B', 'sd', '4151', 2]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw00utt/sw_0061_4151.utt', 14, 'A', 'sd', '4151', 5]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw00utt/sw_0061_4151.utt', 14, 'A', 'sd', '4151', 5]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw00utt/sw_0061_4151.utt', 23, 'B', 'sv', '4151', 10]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw00utt/sw_0073_4049.utt', 0, 'B', 'sv', '4049', 1]
+ANNOTATION WARNING: No interregnum                             marked for delete(s). Shifting delete annotations                             over an interregnum. 
+	['sw00utt/sw_0073_4049.utt', 0, 'B', 'sv', '4049', 1]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw00utt/sw_0073_4049.utt', 0, 'B', 'sv', '4049', 1]
+ANNOTATION ERROR: Interregnum but no edit term.                     Shifting/removing interrengna. 
+	['sw00utt/sw_0073_4049.utt', 67, 'A', 'sv', '4049', 30, 'sw00utt/sw_0073_4049.utt', 69, 'A', '+', '4049', 32]
+	['<e/>', '', '', '', '<e/>', '<e/>', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '<rms id="1585"/>', '<rm id="1585"/>', '<rm id="1585"/>', '<rm id="1585"/>', '<rm id="1585"/>', '<rm id="1585"/>', '<i id="1585"/><e/>', '<i id="1585"/><e/>', '<rms id="1584"/><rps id="1585"/>', '<rps id="1584"/><rp id="1585"/><rpnrep id="1584"/>', '<rp id="1585"/>', '<rp id="1585"/>', '<rp id="1585"/>', '<rp id="1585"/>', '<rpnsub id="1585"/>', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+ANNOTATION WARNING: No interregnum                             marked for delete(s). Shifting delete annotations                             over an interregnum. 
+	['sw00utt/sw_0074_4127.utt', 138, 'B', 'sd', '4127', 80]
+ANNOTATION WARNING: No interregnum                             marked for delete(s). Shifting delete annotations                             over an interregnum. 
+	['sw00utt/sw_0074_4127.utt', 146, 'B', 'sd', '4127', 86]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw00utt/sw_0076_4153.utt', 11, 'A', 'sv', '4153', 7]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw00utt/sw_0076_4153.utt', 11, 'A', 'sv', '4153', 7]
+ANNOTATION WARNING: No interregnum                             marked for delete(s). Shifting delete annotations                             over an interregnum. 
+	['sw00utt/sw_0076_4153.utt', 11, 'A', 'sv', '4153', 7]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw00utt/sw_0076_4153.utt', 123, 'B', 'sd', '4153', 74]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw00utt/sw_0076_4153.utt', 123, 'B', 'sd', '4153', 74]
+ANNOTATION WARNING: No interregnum                             marked for delete(s). Shifting delete annotations                             over an interregnum. 
+	['sw01utt/sw_0101_4019.utt', 4, 'B', 'sd', '4019', 4, 'sw01utt/sw_0101_4019.utt', 6, 'B', '+', '4019', 6]
+ANNOTATION ERROR: Interregnum but no edit term.                     Shifting/removing interrengna. 
+	['sw01utt/sw_0102_4033.utt', 6, 'B', 'sd', '4033', 4]
+	['', '', '<rms id="1812"/>', '<i id="1812"/><e/>', '<rms id="1811"/><rps id="1812"/>', '<rps id="1811"/><rpndel id="1811"/><rpnsub id="1812"/>', '', '', '', '']
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw01utt/sw_0102_4033.utt', 61, 'A', 'sv', '4033', 37, 'sw01utt/sw_0102_4033.utt', 63, 'A', '+', '4033', 39]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw01utt/sw_0102_4033.utt', 61, 'A', 'sv', '4033', 37, 'sw01utt/sw_0102_4033.utt', 63, 'A', '+', '4033', 39]
+ANNOTATION ERROR: Interregnum but no edit term.                     Shifting/removing interrengna. 
+	['sw01utt/sw_0102_4033.utt', 126, 'A', 'sd', '4033', 77]
+	['<rms id="1839"/>', '<rm id="1839"/>', '<rm id="1839"/>', '<rm id="1839"/>', '<rm id="1839"/>', '<rm id="1839"/>', '<rps id="1839"/>', '<rp id="1839"/>', '<rp id="1839"/>', '<rp id="1839"/>', '<rp id="1839"/>', '<rp id="1839"/>', '<rp id="1839"/>', '<rpnsub id="1839"/>', '', '']
+ANNOTATION WARNING: No interregnum                             marked for delete(s). Shifting delete annotations                             over an interregnum. 
+	['sw01utt/sw_0103_4074.utt', 12, 'B', 'sd', '4074', 8]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw01utt/sw_0103_4074.utt', 96, 'B', 'sd', '4074', 60]
+ANNOTATION ERROR: Interregnum but no edit term.                     Shifting/removing interrengna. 
+	['sw01utt/sw_0104_4101.utt', 27, 'A', 'sd', '4101', 11]
+	['<rms id="1878"/>', '<rm id="1878"/>', '<rm id="1878"/>', '<rm id="1878"/>', '<rps id="1878"/>', '<rp id="1878"/>', '<rp id="1878"/>', '<rp id="1878"/>', '<rp id="1878"/>', '<rp id="1878"/>', '<rp id="1878"/>', '<rp id="1878"/>', '<rp id="1878"/>', '<rp id="1878"/>', '<rp id="1878"/>', '<rp id="1878"/>', '<rp id="1878"/>', '<rp id="1878"/>', '<rpnsub id="1878"/>', '<e/>', '', '', '', '', '', '', '', '']
+ANNOTATION ERROR: Interregnum but no edit term.                     Shifting/removing interrengna. 
+	['sw01utt/sw_0104_4101.utt', 39, 'A', 'sd', '4101', 15]
+	['<rms id="1888"/>', '<rm id="1888"/>', '<rm id="1888"/>', '<rps id="1888"/>', '<rp id="1888"/>', '<rpnsub id="1888"/>', '', '', '', '', '', '', '', '', '', '', '', '<rms id="16"/>', '<rps id="16"/>', '<rpnsub id="16"/>', '', '', '', '', '', '', '', '', '', '', '<rms id="1889"/>', '<rps id="1889"/><rpnrep id="1889"/>', '']
+ANNOTATION ERROR: Interregnum but no edit term.                     Shifting/removing interrengna. 
+	['sw01utt/sw_0104_4101.utt', 42, 'B', 'sd', '4101', 16]
+	['', '', '', '', '', '', '<e/>', '<rms id="1891"/>', '<rps id="1891"/>', '<rp id="1891"/>', '<rp id="1891"/>', '<rp id="1891"/>', '<rp id="1891"/>', '<rpnsub id="1891"/>', '', '', '<e/>', '', '', '', '', '', '', '', '']
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw01utt/sw_0106_4137.utt', 23, 'A', 'sd', '4137', 11]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw01utt/sw_0106_4137.utt', 23, 'A', 'sd', '4137', 11]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw01utt/sw_0106_4137.utt', 24, 'A', 'sd', '4137', 11]
+ANNOTATION WARNING: No interregnum                             marked for delete(s). Shifting delete annotations                             over an interregnum. 
+	['sw01utt/sw_0106_4137.utt', 78, 'B', 'sd', '4137', 36, 'sw01utt/sw_0106_4137.utt', 80, 'B', '+', '4137', 38]
+ANNOTATION ERROR: Interregnum but no edit term.                     Shifting/removing interrengna. 
+	['sw01utt/sw_0106_4137.utt', 78, 'B', 'sd', '4137', 36, 'sw01utt/sw_0106_4137.utt', 80, 'B', '+', '4137', 38]
+	['<e/>', '', '', '', '', '', '', '<e/>', '', '', '', '<rms id="1967"/>', '<rps id="1967"/><rpndel id="1967"/>', '', '', '', '', '', '', '', '', '', '', '', '', '', '<rms id="1968"/>', '<i id="1968"/><e/>', '<rps id="1968"/><rpndel id="1968"/>', '', '<rms id="1970"/>', '<rm id="1970"/>', '<i id="1970"/><e/>', '<i id="1970"/><e/>', '<rms id="1969"/><rps id="1970"/>', '<rps id="1969"/><rp id="1970"/><rpnrep id="1969"/>', '<rp id="1970"/>', '<rpnsub id="1970"/>', '<e/>']
+ANNOTATION ERROR: Edit term or                         interregnum overwriting key repair element.                         Removing repair. 
+	['sw01utt/sw_0107_4150.utt', 161, 'B', 'qy', '4150', 96, 'sw01utt/sw_0107_4150.utt', 163, 'B', '+', '4150', 98]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw01utt/sw_0107_4150.utt', 161, 'B', 'qy', '4150', 96, 'sw01utt/sw_0107_4150.utt', 163, 'B', '+', '4150', 98]
+ANNOTATION WARNING: No interregnum                             marked for delete(s). Shifting delete annotations                             over an interregnum. 
+	['sw01utt/sw_0107_4150.utt', 161, 'B', 'qy', '4150', 96, 'sw01utt/sw_0107_4150.utt', 163, 'B', '+', '4150', 98]
+ANNOTATION ERROR: Embedded repairs. 
+	['sw01utt/sw_0107_4150.utt', 161, 'B', 'qy', '4150', 96, 'sw01utt/sw_0107_4150.utt', 163, 'B', '+', '4150', 98]
+ANNOTATION WARNING: No interregnum                             marked for delete(s). Shifting delete annotations                             over an interregnum. 
+	['sw01utt/sw_0135_4090.utt', 87, 'A', 'sd', '4090', 49]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw01utt/sw_0135_4090.utt', 97, 'B', 'sd', '4090', 54, 'sw01utt/sw_0135_4090.utt', 99, 'B', '+', '4090', 56, 'sw01utt/sw_0135_4090.utt', 101, 'B', '+', '4090', 58]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw01utt/sw_0136_4099.utt', 54, 'B', 'sd', '4099', 28]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw01utt/sw_0136_4099.utt', 54, 'B', 'sd', '4099', 28]
+ANNOTATION WARNING: No interregnum                             marked for delete(s). Shifting delete annotations                             over an interregnum. 
+	['sw01utt/sw_0136_4099.utt', 174, 'A', 'qy', '4099', 95]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw01utt/sw_0165_4079.utt', 29, 'A', 'sd', '4079', 15]
+ANNOTATION ERROR: Interregnum but no edit term.                     Shifting/removing interrengna. 
+	['sw01utt/sw_0165_4079.utt', 58, 'A', 'sd', '4079', 23]
+	['', '', '', '<rms id="22"/>', '<rps id="22"/>', '<rpnsub id="22"/>', '', '', '', '', '', '', '']
+ANNOTATION ERROR: Interregnum but no edit term.                     Shifting/removing interrengna. 
+	['sw02utt/sw_0253_4072.utt', 40, 'B', 'sd', '4072', 22, 'sw02utt/sw_0253_4072.utt', 42, 'B', '+', '4072', 24]
+	['<rms id="3001"/>', '<rps id="3001"/><rpnrep id="3001"/>', '', '', '', '', '<rms id="3002"/>', '<i id="3002"/><e/>', '<rps id="3002"/><rpnsub id="3002"/>', '', '', '<rms id="3003"/>', '<rps id="3003"/><rpndel id="3003"/>', '<e/>', '<rms id="3004"/>', '<rps id="3004"/><rpnrep id="3004"/>', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '<e/>', '<e/>', '', '', '', '<e/>', '', '', '', '', '', '<e/>', '<e/>', '', '', '<e/>', '<e/>', '<rms id="38"/>', '<rps id="38"/><rpndel id="38"/><rms id="3006"/>', '<rm id="3006"/>', '<i id="3006"/><e/>', '<i id="3006"/><e/>', '<rms id="3005"/><rps id="3006"/>', '<rps id="3005"/><rpndel id="3005"/><rp id="3006"/>', '<rpnsub id="3006"/>', '', '<rms id="3007"/>', '<rps id="3007"/><rpnrep id="3007"/>', '', '', '', '', '', '', '', '<rms id="3008"/>', '<rps id="3008"/><rpndel id="3008"/>', '', '', '', '', '', '', '', '', '', '', '', '']
+ANNOTATION WARNING: No interregnum                             marked for delete(s). Shifting delete annotations                             over an interregnum. 
+	['sw02utt/sw_0253_4072.utt', 52, 'A', 'sd', '4072', 31, 'sw02utt/sw_0253_4072.utt', 54, 'A', '+', '4072', 33]
+ANNOTATION WARNING: No interregnum                             marked for delete(s). Shifting delete annotations                             over an interregnum. 
+	['sw02utt/sw_0254_4138.utt', 8, 'A', 'sv', '4138', 5]
+ANNOTATION WARNING: No interregnum                             marked for delete(s). Shifting delete annotations                             over an interregnum. 
+	['sw02utt/sw_0254_4138.utt', 10, 'A', 'sv', '4138', 5]
+ANNOTATION WARNING: No interregnum                             marked for delete(s). Shifting delete annotations                             over an interregnum. 
+	['sw02utt/sw_0254_4138.utt', 29, 'A', 'sd', '4138', 13]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw03utt/sw_0316_4051.utt', 4, 'B', 'sd', '4051', 2]
+ANNOTATION WARNING: No interregnum                             marked for delete(s). Shifting delete annotations                             over an interregnum. 
+	['sw03utt/sw_0316_4051.utt', 44, 'B', 'sv', '4051', 24]
+ANNOTATION ERROR: Interregnum but no edit term.                     Shifting/removing interrengna. 
+	['sw03utt/sw_0317_4064.utt', 79, 'B', 'sv', '4064', 56, 'sw03utt/sw_0317_4064.utt', 81, 'B', '+', '4064', 58, 'sw03utt/sw_0317_4064.utt', 83, 'B', '+', '4064', 60]
+	['', '<rms id="3250"/>', '<rps id="3250"/>', '<rp id="3250"/>', '<rpnsub id="3250"/>', '', '', '', '', '', '', '<e/>', '', '', '', '', '', '', '', '', '', '', '<rms id="44722"/>', '<rm id="44722"/>', '<rm id="44722"/>', '<rm id="44722"/>', '<i id="44722"/><e/>', '<i id="44722"/><e/>', '<rms id="3251"/><rps id="44722"/>', '<rps id="3251"/><rp id="44722"/><rpnrep id="3251"/>', '<rp id="44722"/>', '<rp id="44722"/>', '<rp id="44722"/>', '<rpnsub id="44722"/>', '', '<e/>', '', '', '', '']
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw03utt/sw_0317_4064.utt', 87, 'A', 'sv', '4064', 61]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw03utt/sw_0317_4064.utt', 87, 'A', 'sv', '4064', 61]
+ANNOTATION ERROR: Embedded repairs. 
+	['sw03utt/sw_0317_4064.utt', 87, 'A', 'sv', '4064', 61]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw03utt/sw_0317_4064.utt', 103, 'A', 'sd', '4064', 73]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw03utt/sw_0374_4032.utt', 82, 'B', 'sv', '4032', 44, 'sw03utt/sw_0374_4032.utt', 84, 'B', '+', '4032', 46, 'sw03utt/sw_0374_4032.utt', 86, 'B', '+', '4032', 48]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw03utt/sw_0374_4032.utt', 82, 'B', 'sv', '4032', 44, 'sw03utt/sw_0374_4032.utt', 84, 'B', '+', '4032', 46, 'sw03utt/sw_0374_4032.utt', 86, 'B', '+', '4032', 48]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw03utt/sw_0375_4050.utt', 78, 'A', 'qy', '4050', 46]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw03utt/sw_0375_4050.utt', 78, 'A', 'qy', '4050', 46]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw03utt/sw_0376_4077.utt', 23, 'A', 'sd', '4077', 17]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw03utt/sw_0376_4077.utt', 23, 'A', 'sd', '4077', 17]
+ANNOTATION WARNING: No interregnum                             marked for delete(s). Shifting delete annotations                             over an interregnum. 
+	['sw03utt/sw_0376_4077.utt', 33, 'B', 'sv', '4077', 24]
+ANNOTATION ERROR: Interregnum but no edit term.                     Shifting/removing interrengna. 
+	['sw03utt/sw_0376_4077.utt', 115, 'A', 'sv', '4077', 73]
+	['<rms id="3482"/>', '<rps id="3482"/><rpnrep id="3482"/>', '<e/>', '<e/>', '<e/>', '<rms id="3483"/>', '<rps id="3483"/><rpnrep id="3483"/>', '', '', '', '', '', '', '', '<rms id="3485"/>', '<i id="3485"/><e/>', '<i id="3485"/><e/>', '<rms id="3484"/><rps id="3485"/>', '<rm id="3484"/><rp id="3485"/>', '<rms id="58"/><rps id="3484"/><rp id="3485"/><rpnsub id="3484"/>', '<i id="58"/><e/>', '<i id="58"/><e/>', '<rps id="58"/><rpndel id="58"/><rpnsub id="3485"/>', '', '', '', '', '', '', '']
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw03utt/sw_0377_4130.utt', 12, 'B', 'qy', '4130', 8]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw03utt/sw_0377_4130.utt', 25, 'A', 'sv', '4130', 15, 'sw03utt/sw_0377_4130.utt', 27, 'A', '+', '4130', 17]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw03utt/sw_0377_4130.utt', 25, 'A', 'sv', '4130', 15, 'sw03utt/sw_0377_4130.utt', 27, 'A', '+', '4130', 17]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw03utt/sw_0377_4130.utt', 66, 'A', 'sv', '4130', 45]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw03utt/sw_0377_4130.utt', 66, 'A', 'sv', '4130', 45]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw03utt/sw_0377_4130.utt', 91, 'B', 'sv', '4130', 60, 'sw03utt/sw_0377_4130.utt', 93, 'B', '+', '4130', 62]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw03utt/sw_0377_4130.utt', 91, 'B', 'sv', '4130', 60, 'sw03utt/sw_0377_4130.utt', 93, 'B', '+', '4130', 62]
+ANNOTATION WARNING: No interregnum                             marked for delete(s). Shifting delete annotations                             over an interregnum. 
+	['sw03utt/sw_0377_4130.utt', 96, 'B', 'sv', '4130', 64, 'sw03utt/sw_0377_4130.utt', 98, 'B', '+', '4130', 66]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw04utt/sw_0435_4008.utt', 6, 'A', 'sd', '4008', 3]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw04utt/sw_0435_4008.utt', 53, 'A', '%', '4008', 35]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw04utt/sw_0435_4008.utt', 58, 'B', 'sd', '4008', 36]
+ANNOTATION WARNING: No interregnum                             marked for delete(s). Shifting delete annotations                             over an interregnum. 
+	['sw04utt/sw_0435_4008.utt', 74, 'B', 'sd', '4008', 46]
+ANNOTATION ERROR: Interregnum but no edit term.                     Shifting/removing interrengna. 
+	['sw04utt/sw_0435_4008.utt', 103, 'B', 'qy', '4008', 64, 'sw04utt/sw_0435_4008.utt', 105, 'B', '+', '4008', 66]
+	['<e/>', '<rms id="44752"/><rms id="44753"/>', '<rm id="44752"/><rm id="44753"/>', '<rps id="44752"/><rm id="44753"/>', '<rm id="44753"/><rpnrep id="44752"/>', '<rm id="44753"/>', '<i id="44753"/><e/>', '<rps id="44753"/><rms id="3692"/>', '<rp id="44753"/><rps id="3692"/><rpnrep id="3692"/>', '<rp id="44753"/>', '<rpnsub id="44753"/>', '', '<rms id="3693"/>', '<rps id="3693"/><rpndel id="3693"/><rms id="3694"/>', '<rps id="3694"/><rpndel id="3694"/>', '', '', '', '']
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw04utt/sw_0436_4055.utt', 8, 'B', 'sd', '4055', 6]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw04utt/sw_0436_4055.utt', 8, 'B', 'sd', '4055', 6]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw04utt/sw_0436_4055.utt', 98, 'B', 'sd', '4055', 56]
+ANNOTATION ERROR: Embedded repairs. 
+	['sw04utt/sw_0437_4092.utt', 63, 'B', 'qy^d', '4092', 46, 'sw04utt/sw_0437_4092.utt', 65, 'B', '+', '4092', 48, 'sw04utt/sw_0437_4092.utt', 67, 'B', '+', '4092', 50]
+ANNOTATION ERROR: Edit term or                         interregnum overwriting key repair element.                         Removing repair. 
+	['sw04utt/sw_0437_4092.utt', 182, 'B', 'sv', '4092', 130]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw04utt/sw_0437_4092.utt', 186, 'A', 'ng', '4092', 131]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw04utt/sw_0437_4092.utt', 186, 'A', 'ng', '4092', 131]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw04utt/sw_0437_4092.utt', 186, 'A', 'ng', '4092', 131]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw04utt/sw_0437_4092.utt', 186, 'A', 'ng', '4092', 131]
+ANNOTATION ERROR: Interregnum but no edit term.                     Shifting/removing interrengna. 
+	['sw04utt/sw_0438_4113.utt', 33, 'A', 'sv', '4113', 23]
+	['<e/>', '<rms id="3754"/>', '<rm id="3754"/>', '<rm id="3754"/>', '<rps id="3754"/>', '<rp id="3754"/>', '<rpnsub id="3754"/>', '', '', '', '', '', '<e/>', '', '', '', '', '', '', '', '', '', '', '', '', '<rms id="3755"/>', '<rps id="3755"/><rpnsub id="3755"/>', '', '', '', '', '', '', '', '<rms id="3757"/>', '<rm id="3757"/>', '<rm id="3757"/>', '<rm id="3757"/>', '<i id="3757"/><e/>', '<i id="3757"/><e/>', '<rms id="3756"/><rps id="3757"/>', '<rps id="3756"/><rp id="3757"/><rpnrep id="3756"/>', '<rp id="3757"/>', '<rp id="3757"/>', '<rp id="3757"/>', '<rpnsub id="3757"/>', '', '', '<e/>', '<e/>', '', '<rms id="3758"/>', '<rps id="3758"/><rpndel id="3758"/>', '', '', '', '', '', '', '', '', '<e/>', '<e/>', '', '', '', '', '', '', '', '<e/>', '', '']
+ANNOTATION ERROR: Embedded repairs. 
+	['sw04utt/sw_0438_4113.utt', 55, 'A', 'sv', '4113', 33]
+ANNOTATION ERROR: Interregnum but no edit term.                     Shifting/removing interrengna. 
+	['sw04utt/sw_0438_4113.utt', 93, 'B', 'sv', '4113', 50]
+	['', '<rms id="3788"/>', '<rps id="3788"/><rpnrep id="3788"/>', '', '', '<rms id="3789"/>', '<rm id="3789"/>', '<rps id="3789"/>', '<rpnrep id="3789"/>', '', '', '', '', '<rms id="3791"/>', '<i id="3791"/><e/>', '<rms id="3790"/><rps id="3791"/>', '<rps id="3790"/><rpndel id="3790"/><rpnsub id="3791"/>', '', '', '', '', '', '', '', '', '', '', '']
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw05utt/sw_0573_4022.utt', 68, 'B', 'sv', '4022', 42]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw05utt/sw_0573_4022.utt', 108, 'B', 'sd', '4022', 66, 'sw05utt/sw_0573_4022.utt', 110, 'B', '+', '4022', 68]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw05utt/sw_0573_4022.utt', 108, 'B', 'sd', '4022', 66, 'sw05utt/sw_0573_4022.utt', 110, 'B', '+', '4022', 68]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw05utt/sw_0574_4023.utt', 58, 'A', 'sv', '4023', 37, 'sw05utt/sw_0574_4023.utt', 61, 'A', '+', '4023', 39]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw05utt/sw_0574_4023.utt', 58, 'A', 'sv', '4023', 37, 'sw05utt/sw_0574_4023.utt', 61, 'A', '+', '4023', 39]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw05utt/sw_0574_4023.utt', 58, 'A', 'sv', '4023', 37, 'sw05utt/sw_0574_4023.utt', 61, 'A', '+', '4023', 39]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw05utt/sw_0574_4023.utt', 58, 'A', 'sv', '4023', 37, 'sw05utt/sw_0574_4023.utt', 61, 'A', '+', '4023', 39]
+ANNOTATION WARNING: No interregnum                             marked for delete(s). Shifting delete annotations                             over an interregnum. 
+	['sw05utt/sw_0574_4023.utt', 112, 'B', 'sd', '4023', 72]
+ANNOTATION ERROR: Interregnum but no edit term.                     Shifting/removing interrengna. 
+	['sw05utt/sw_0575_4114.utt', 5, 'A', 'qy', '4114', 3]
+	['<rms id="4301"/>', '<rm id="4301"/>', '<i id="4301"/><e/>', '<rps id="4301"/>', '<rp id="4301"/>', '<rp id="4301"/>', '<rp id="4301"/>', '<rp id="4301"/>', '<rp id="4301"/>', '<rp id="4301"/>', '<rp id="4301"/>', '<rp id="4301"/>', '<rp id="4301"/>', '<rp id="4301"/>', '<rp id="4301"/>', '<rpnsub id="4301"/>', '', '<e/>', '', '']
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw05utt/sw_0575_4114.utt', 33, 'A', 'sv', '4114', 21]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw05utt/sw_0575_4114.utt', 122, 'A', 'sd', '4114', 69]
+ANNOTATION ERROR: Embedded repairs. 
+	['sw06utt/sw_0629_4056.utt', 22, 'B', 'sd', '4056', 12]
+ANNOTATION WARNING: No interregnum                             marked for delete(s). Shifting delete annotations                             over an interregnum. 
+	['sw06utt/sw_0629_4056.utt', 31, 'B', 'sd', '4056', 18, 'sw06utt/sw_0629_4056.utt', 32, 'B', 'sd', '4056', 18]
+ANNOTATION ERROR: Interregnum but no edit term.                     Shifting/removing interrengna. 
+	['sw06utt/sw_0629_4056.utt', 102, 'A', 'qy', '4056', 57]
+	['<rms id="4478"/>', '<rm id="4478"/>', '<i id="4478"/><e/>', '<rps id="4478"/>', '<rp id="4478"/>', '<rp id="4478"/>', '<rp id="4478"/>', '<rpnsub id="4478"/>', '', '', '', '', '<e/>', '', '<rms id="4479"/>', '<rps id="4479"/><rpnrep id="4479"/>', '', '', '', '']
+ANNOTATION ERROR: Embedded repairs. 
+	['sw06utt/sw_0629_4056.utt', 117, 'B', 'sd', '4056', 66]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw06utt/sw_0629_4056.utt', 117, 'B', 'sd', '4056', 66]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw06utt/sw_0629_4056.utt', 117, 'B', 'sd', '4056', 66]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw06utt/sw_0630_4080.utt', 30, 'B', 'sd', '4080', 20]
+ANNOTATION WARNING: No interregnum                             marked for delete(s). Shifting delete annotations                             over an interregnum. 
+	['sw06utt/sw_0630_4080.utt', 88, 'B', 'sd', '4080', 52, 'sw06utt/sw_0630_4080.utt', 90, 'B', '+', '4080', 54]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw06utt/sw_0631_4149.utt', 4, 'A', 'qy', '4149', 3]
+ANNOTATION WARNING: Interregnum or                     edit term over-writing mid-reparandum or                     mid-repair element. 
+	['sw06utt/sw_0631_4149.utt', 50, 'A', 'sd', '4149', 25, 'sw06utt/sw_0631_4149.utt', 52, 'A', '+', '4149', 27]
+Problematic repairs removed = 20
+Disfluency corpus constructed with         39 Errors and 115 Warnings

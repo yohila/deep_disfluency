@@ -1,0 +1,1 @@
+Please see top level README for where the folders must be before running extract_features.py.
